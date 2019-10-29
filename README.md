@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Their Words
 
-You can use the [editor on GitHub](https://github.com/onebrightlight/theirwords/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repo is a work-in-progress and a repository of **really, really offensive and triggering** words. It helps power [INSERT GLITCH ULR HERE]. Seriously, if you have a problem seeing and reading racist/ableist/misogynist/queerphobic/etc. words and phrases, this repository is not for you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why is this a thing?
 
-### Markdown
+I built this tool because I know a *lot* of us frequently have to weigh-in daily on whether or not a recent follow is someone you want hanging around your profile. Their Words lets you quickly access a Twitter advanced search query that hunts for these phrases. Again, you’ll potentially be exposed to lots of bad stuff on their profile if they’re being a shitheel online, so proceed to use it **with caution**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/onebrightlight/theirwords/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any problems with the tool, ping me at [@furioursus](https://www.twitter.com/furioursus) on Twitter! If you have suggestions for the terms file, submit a pull-request or let me know what you want to add. [ADD MORE CONTACT INFO STUFF HERE]
