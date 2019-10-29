@@ -1,96 +1,106 @@
-module.exports = {
-    "antiBlack": {
-        "title": "Anti-Black Tweets",
+{
+    "document": "Bigoted Terms",
+    "version": 1.1,
+    "releaseDate": "2019-10-29T00:00:00.000Z",
+    "terms": [
+      {
+        "title": "Anti-Black",
+        "handle": "antiBlack",
         "terms": [
-            "#alllivesmatter",
-            "#bluelivesmatter",
-            "big lipped",
-            "monkey",
-            "nigga",
-            "niggas",
-            "nigger",
-            "niggers",
-            "spear chucker",
-            "spearchucker"
+          "alllivesmatter",
+          "bluelivesmatter",
+          "big lipped",
+          "monkey",
+          "nigga",
+          "niggas",
+          "nigger",
+          "niggers",
+          "spear chucker",
+          "spearchucker"
         ]
-    },
-    "queerphobia": {
-        "title": "Queerphobic Tweets",
+      },
+      {
+        "title": "Queerphobic",
+        "handle": "queerphobic",
         "terms": [
-            "arse bandit",
-            "ass bandit",
-            "batty boy",
-            "bean flicker",
-            "botty boy",
-            "carpet muncher",
-            "carpetmuncher",
-            "daffy",
-            "dyke",
-            "fag",
-            "faggot",
-            "fudge packer",
-            "lesbo",
-            "lez",
-            "lezzer",
-            "lezzie",
-            "muff diver",
-            "nancyboy",
-            "pansy",
-            "payaso",
-            "poof",
-            "queer",
-            "shit stabber",
-            "tranny",
-            "turd burglar"
+          "arse bandit",
+          "ass bandit",
+          "batty boy",
+          "bean flicker",
+          "botty boy",
+          "carpet muncher",
+          "carpetmuncher",
+          "daffy",
+          "dyke",
+          "fag",
+          "faggot",
+          "fudge packer",
+          "lesbo",
+          "lez",
+          "lezzer",
+          "lezzie",
+          "muff diver",
+          "nancyboy",
+          "pansy",
+          "payaso",
+          "poof",
+          "queer",
+          "shit stabber",
+          "tranny",
+          "turd burglar"
         ]
-    },
-    "misogyny": {
-        "title": "Misogynystic Tweets",
+      },
+      {
+        "title": "Misogyny",
+        "handle": "misogyny",
         "terms": [
-            "bitch",
-            "cunt",
-            "female",
-            "ho",
-            "hoe",
-            "hoes",
-            "slut",
-            "thot",
-            "whore"
+          "bitch",
+          "cunt",
+          "female",
+          "ho",
+          "hoe",
+          "hoes",
+          "slut",
+          "thot",
+          "whore"
         ]
-    },
-    "religiousHatred": {
-        "title": "Relgious Bigotry Tweets",
+      },
+      {
+        "title": "Religious Hatred",
+        "handle": "religiousHatred",
         "terms": [
-            "haji",
-            "hajji",
-            "heeb",
-            "hodgie",
-            "hymie",
-            "ikey-mo",
-            "ikey",
-            "kike",
-            "mocky",
-            "mussie",
-            "sand nigger",
-            "sheeny",
-            "towel head",
-            "towel-head",
-            "towelhead",
-            "yid"
+          "haji",
+          "hajji",
+          "heeb",
+          "hodgie",
+          "hymie",
+          "ikey-mo",
+          "ikey",
+          "kike",
+          "mocky",
+          "mussie",
+          "sand nigger",
+          "sheeny",
+          "towel head",
+          "towel-head",
+          "towelhead",
+          "yid"
         ]
-    },
-    "transphobia": {
-        "title": "Transphobic Tweets",
+      },
+      {
+        "title": "Transphobia",
+        "handle": "transphobia",
         "terms": [
-            "fag",
-            "faggot",
-            "he-she",
-            "hermaphrodite",
-            "man in a dress",
-            "shemale",
-            "shim",
-            "tranny",
-            "transvestite"
+          "fag",
+          "faggot",
+          "he-she",
+          "hermaphrodite",
+          "man in a dress",
+          "shemale",
+          "shim",
+          "tranny",
+          "transvestite"
         ]
-    }
-}
+      }
+    ]
+  }
