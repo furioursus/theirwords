@@ -92,21 +92,5 @@ module.exports = {
             "tranny",
             "transvestite"
         ]
-    },
-    "altRight": {
-        "title": "Neo-Nazi (Alt-Right) Tweets",
-        "terms": [
-            "a leppo",
-            "bing",
-            "butterfly",
-            "car salesman",
-            "durden",
-            "fishbucket",
-            "google",
-            "reagans",
-            "skittle",
-            "skype",
-            "yahoo"
-        ]
     }
 }
