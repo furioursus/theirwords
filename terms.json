@@ -1,0 +1,112 @@
+module.exports = {
+    "antiBlack": {
+        "title": "Anti-Black Tweets",
+        "terms": [
+            "#alllivesmatter",
+            "#bluelivesmatter",
+            "big lipped",
+            "monkey",
+            "nigga",
+            "niggas",
+            "nigger",
+            "niggers",
+            "spear chucker",
+            "spearchucker"
+        ]
+    },
+    "queerphobia": {
+        "title": "Queerphobic Tweets",
+        "terms": [
+            "arse bandit",
+            "ass bandit",
+            "batty boy",
+            "bean flicker",
+            "botty boy",
+            "carpet muncher",
+            "carpetmuncher",
+            "daffy",
+            "dyke",
+            "fag",
+            "faggot",
+            "fudge packer",
+            "lesbo",
+            "lez",
+            "lezzer",
+            "lezzie",
+            "muff diver",
+            "nancyboy",
+            "pansy",
+            "payaso",
+            "poof",
+            "queer",
+            "shit stabber",
+            "tranny",
+            "turd burglar"
+        ]
+    },
+    "misogyny": {
+        "title": "Misogynystic Tweets",
+        "terms": [
+            "bitch",
+            "cunt",
+            "female",
+            "ho",
+            "hoe",
+            "hoes",
+            "slut",
+            "thot",
+            "whore"
+        ]
+    },
+    "religiousHatred": {
+        "title": "Relgious Bigotry Tweets",
+        "terms": [
+            "haji",
+            "hajji",
+            "heeb",
+            "hodgie",
+            "hymie",
+            "ikey-mo",
+            "ikey",
+            "kike",
+            "mocky",
+            "mussie",
+            "sand nigger",
+            "sheeny",
+            "towel head",
+            "towel-head",
+            "towelhead",
+            "yid"
+        ]
+    },
+    "transphobia": {
+        "title": "Transphobic Tweets",
+        "terms": [
+            "fag",
+            "faggot",
+            "he-she",
+            "hermaphrodite",
+            "man in a dress",
+            "shemale",
+            "shim",
+            "tranny",
+            "transvestite"
+        ]
+    },
+    "altRight": {
+        "title": "Neo-Nazi (Alt-Right) Tweets",
+        "terms": [
+            "a leppo",
+            "bing",
+            "butterfly",
+            "car salesman",
+            "durden",
+            "fishbucket",
+            "google",
+            "reagans",
+            "skittle",
+            "skype",
+            "yahoo"
+        ]
+    }
+}
