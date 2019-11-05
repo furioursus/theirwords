@@ -13,4 +13,4 @@ If you have any problems with the tool, ping me at [@furioursus](https://www.twi
 
 #### Additional Terms
 
-If you want to submite more terms for addition to the list, fork this repo, modify the `./terms.json` file and send me a pull request.
+If you want to submit more terms for addition to the list, fork this repo, modify the `./terms.json` file and send me a pull request.
