@@ -1,6 +1,6 @@
 ## Welcome to Their Words
 
-This repo is a work-in-progress and a repository of **really, really offensive and triggering** words. It helps power [INSERT GLITCH ULR HERE]. Seriously, if you have a problem seeing and reading racist/ableist/misogynist/queerphobic/etc. words and phrases, this repository is not for you.
+This repo is a work-in-progress and a repository of **really, really offensive and triggering** words. It helps power [Their Words](https://theirwords.glitch.me). Seriously, if you have a problem seeing and reading racist/ableist/misogynist/queerphobic/etc. words and phrases, this repository is not for you.
 
 ### Why is this a thing?
 
