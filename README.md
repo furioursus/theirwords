@@ -9,4 +9,8 @@ I built this tool because I know a *lot* of us frequently have to weigh-in daily
 
 ### Support or Contact
 
-If you have any problems with the tool, ping me at [@furioursus](https://www.twitter.com/furioursus) on Twitter! If you have suggestions for the terms file, submit a pull-request or let me know what you want to add. [ADD MORE CONTACT INFO STUFF HERE]
+If you have any problems with the tool, ping me at [@furioursus](https://www.twitter.com/furioursus) on Twitter! If you have suggestions for the terms file, submit a pull-request or let me know what you want to add.
+
+#### Additional Terms
+
+If you want to submite more terms for addition to the list, fork this repo, modify the `./terms.json` file and send me a pull request.
